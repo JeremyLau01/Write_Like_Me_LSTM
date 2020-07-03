@@ -1,4 +1,5 @@
-# Write_Like_Me_LSTM
+# Write_Like_Me_LSTM 
+# [Machine Learning]
 I created a recurrent neural network (LSTM) that tries to write text in the style of my writing. 
 
 

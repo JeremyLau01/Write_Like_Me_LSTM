@@ -125,7 +125,7 @@ for i in range(700):
     for t, char in enumerate(sentence):
         x_pred[0, t, char_indices[char]] = 1
     
-    # verbose means what will see as progress bar or epoch # when training
+    # predict next letter using model
     preds = model.predict(x_pred)[0]
     
     # instead of using a fxn to add randomness to output, I decided to simply take the argmax 

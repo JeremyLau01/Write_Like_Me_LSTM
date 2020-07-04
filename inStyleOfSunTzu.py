@@ -20,7 +20,6 @@ import keras
 
 ### import Sun Tzu's Art of War - want a lot of text for training
 # 'with' makes it cleaner to deal with opening files
-#filename = r'C:\Users\jerem\OneDrive\Documents\Projects\Programming\Python Projects\Neural Networks\Khanrad Learn Keras in One Video\My Tests\LSTM\StyleSunTzu\artofwar.txt'
 filename = 'artofwar.txt'
 with open(filename, encoding="utf8") as f: # import text file
     text = [x.lower() for x in f.read()] # set all text to lowercase so RNN doesn't have to learn capitalization rules

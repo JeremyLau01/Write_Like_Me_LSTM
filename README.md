@@ -8,7 +8,7 @@ View the code I used to create, train, and use the neural network <a target="_bl
 View the generated words in the style of Sun Tzu:<br>
 <a target="_blank" rel="noopener noreferrer" href="">New Sun Tzu 1</a><br>
 
-View The Art of War <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/artofwar.txt">here</a><br>
+View The Art of War book <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/artofwar.txt">here</a><br>
 Text version of The Art of War from <a target="_blank" rel="noopener noreferrer" href="https://suntzusaid.com/">here</a>
 
 Code I referenced and followed:

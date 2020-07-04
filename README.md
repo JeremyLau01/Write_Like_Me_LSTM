@@ -1,4 +1,4 @@
- Write_Like_Sun_Tzu_LSTM 
+# Write_Like_Sun_Tzu_LSTM 
 # [Machine Learning]
 I created a recurrent neural network (LSTM) that writes text in the style of Sun Tzu.<br>
 The network takes in a text file of Sun Tzu's book, The Art of War, and generates a text file in the same writing style.<br>

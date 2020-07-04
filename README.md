@@ -4,7 +4,7 @@ I created a recurrent neural network (LSTM) that writes text in the style of Sun
 The network takes in the text file of Sun Tzu's book, The Art of War, and generates a text file in the same writing style.<br>
 View the code I used to create, train, and use the neural network <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/inStyleOfSunTzu.py">here</a>
 
-View the generated words in the style of Sun Tzu:
+View the generated words in the style of Sun Tzu:<br>
 <a target="_blank" rel="noopener noreferrer" href="">New Sun Tzu 1</a><br>
 
 Note: the generated text may not make sense on its own but in general, the generated text contains the common ideas and words used throughout the book.

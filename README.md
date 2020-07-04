@@ -5,11 +5,11 @@ The network takes in a text file of Sun Tzu's book, The Art of War, and generate
 View The Art of War book <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/artofwar.txt">here</a>
 (from <a target="_blank" rel="noopener noreferrer" href="https://suntzusaid.com/">https://suntzusaid.com/</a>)
 
-Note: the generated text may not make sense, but it contains common ideas and words used throughout the book.<br>
 View the code I used to create, train, and use the neural network <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/inStyleOfSunTzu.py">here</a>
 
 View the generated words in the style of Sun Tzu:<br>
 <a target="_blank" rel="noopener noreferrer" href="">New Sun Tzu 1</a><br>
+Note: the generated text may not make sense, but it contains common ideas and words used throughout the book.<br>
 
 Code I referenced and followed:
 <a target="_blank" rel="noopener noreferrer" href="https://towardsdatascience.com/lstm-how-to-train-neural-networks-to-write-like-lovecraft-e56e1165f514">Reference 1</a>,

@@ -6,7 +6,7 @@ View The Art of War book <a target="_blank" rel="noopener noreferrer" href="http
 (from <a target="_blank" rel="noopener noreferrer" href="https://suntzusaid.com/">https://suntzusaid.com/</a>)
 
 View the generated words in the style of Sun Tzu 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/Generated%20Texts/All%20Generated%20Texts%20Combined.txt">here</a><br>
+<b><a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/Generated%20Texts/All%20Generated%20Texts%20Combined.txt">here</a><br><b>
 
 View the code I used to create, train, and use the neural network <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/blob/master/inStyleOfSunTzu.py">here</a>
 I ran the script 8 times and I combined the texts together afterwards. You can view the indivually generated texts <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM/tree/master/Generated%20Texts">here</a><br>
